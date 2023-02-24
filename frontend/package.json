@@ -1,0 +1,52 @@
+{
+  "name": "financial-lab",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "d3-dispatch": "^3.0.1",
+    "find-array-duplicate": "^1.0.2",
+    "materialize-css": "^1.0.0-rc.2",
+    "moment": "^2.27.0",
+    "multiselect-react-dropdown": "^1.6.13",
+    "react": "^16.13.0",
+    "react-device-detect": "^1.13.1",
+    "react-dom": "^16.13.0",
+    "react-multiselect-checkboxes": "^0.1.1",
+    "react-pdf": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-redux-firebase": "^2.1.6",
+    "react-responsive": "^8.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-select": "^4.1.0",
+    "react-super-responsive-table": "^5.2.0",
+    "redux": "^4.0.4",
+    "redux-firestore": "^0.10.0",
+    "redux-thunk": "^2.3.0",
+    "sweetalert": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+export const refreshInterval=5*60*1000; // 2 minutes

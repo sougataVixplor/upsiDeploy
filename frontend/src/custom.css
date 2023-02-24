@@ -1,0 +1,21 @@
+.hint {
+    color: rgb(48, 48, 165);
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.switch label input[type=checkbox]:checked+.lever:after {
+    background-color: #00b1d4 !important;
+}
+
+.switch label input[type=checkbox]:checked+.lever {
+    background-color: #022d36;
+}
+
+.conversation-modal{
+    width: 60% !important;
+}
+
+.responsive-table-div{
+    overflow-x: scroll;
+}
